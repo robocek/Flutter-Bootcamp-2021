@@ -20,20 +20,12 @@ In this Bootcamp, you will be able to learn Flutter through interactive **Live**
 
 ## Resources
 
-[Flutter documentation](https://flutter.dev/docs) 
-
-[Get Started with Flutter](https://www.raywenderlich.com/13739693-your-first-flutter-app/lessons/1)
-
-[Get Started with Flutter - Malayalam](https://www.youtube.com/watch?v=cIZLeUBSlRM&list=PLr11YFCnWCCMQYU8z3Gol2gVA2nBtoKVo)
-
-[Flutter Widget of the week](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2)
-
-[Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
-
-[Basic programming for absolute beginners](https://www.youtube.com/watch?v=FLQ-Vhw1NYQ)
-
-[Basic programming for absolute beginners - Malayalam](https://www.youtube.com/watch?v=tCzyhf-f7zo&list=PLr11YFCnWCCMgk8qEewU_Zl32j3w7hyUZ)
-
-[Dart Pad](https://dartpad.dev/0df636e00f348bdec2bc1c8ebc7daeb1?null_safety=true)
-
-[GitHub](https://www.youtube.com/watch?v=wrb7Gge9yoE)
+- [Flutter documentation](https://flutter.dev/docs) 
+- [Get Started with Flutter](https://www.raywenderlich.com/13739693-your-first-flutter-app/lessons/1)
+- [Get Started with Flutter - Malayalam](https://www.youtube.com/watch?v=cIZLeUBSlRM&list=PLr11YFCnWCCMQYU8z3Gol2gVA2nBtoKVo)
+- [Flutter Widget of the week](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2)
+- [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+- [Basic programming for absolute beginners](https://www.youtube.com/watch?v=FLQ-Vhw1NYQ)
+- [Basic programming for absolute beginners - Malayalam](https://www.youtube.com/watch?v=tCzyhf-f7zo&list=PLr11YFCnWCCMgk8qEewU_Zl32j3w7hyUZ)
+- [Dart Pad](https://dartpad.dev/0df636e00f348bdec2bc1c8ebc7daeb1?null_safety=true)
+- [GitHub](https://www.youtube.com/watch?v=wrb7Gge9yoE)
