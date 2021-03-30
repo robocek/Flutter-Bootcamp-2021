@@ -12,7 +12,10 @@ In this Bootcamp, you will be able to learn Flutter through interactive **Live**
 
 🔺 Build beautiful, fast, and native-quality iOS and Android apps using just one programming language (Dart).
 
-🔺 Become a fully-fledged Flutter developer.
+🔺 Become a fully-fledged Flutter developer.  
+
+## Tasks
+ 1. [Introduction and Installation of Flutter](Task-1.md)
 
 
 ## Resources
