@@ -4,6 +4,8 @@ Flutter is Google's UI toolkit for building beautiful, natively compiled applica
 
 In this Bootcamp, you will be able to learn Flutter through interactive **Live** group sessions. We start everything from **Scratch** - From setting up the environment & IDE to write a full-fledged Flutter App, All you need is a laptop and a zeal to learn.
 
+[App Development Video - Knowbotics - Robocek](https://www.youtube.com/watch?v=S3PkT_REi1c&list=PLGykX21r34XAKta1fDBC7vcdEmew2VqMi)
+
 ## What you'll learn
 
 🔺 Understand all the fundamental concepts of Flutter development
@@ -11,6 +13,7 @@ In this Bootcamp, you will be able to learn Flutter through interactive **Live**
 🔺 Build beautiful, fast, and native-quality iOS and Android apps using just one programming language (Dart).
 
 🔺 Become a fully-fledged Flutter developer.
+
 
 ## Resources
 
@@ -29,7 +32,5 @@ In this Bootcamp, you will be able to learn Flutter through interactive **Live**
 [Basic programming for absolute beginners - Malayalam](https://www.youtube.com/watch?v=tCzyhf-f7zo&list=PLr11YFCnWCCMgk8qEewU_Zl32j3w7hyUZ)
 
 [Dart Pad](https://dartpad.dev/0df636e00f348bdec2bc1c8ebc7daeb1?null_safety=true)
-
-[App Development - Knowbotics - Robocek](https://www.youtube.com/watch?v=S3PkT_REi1c&list=PLGykX21r34XAKta1fDBC7vcdEmew2VqMi)
 
 [GitHub](https://www.youtube.com/watch?v=wrb7Gge9yoE)
