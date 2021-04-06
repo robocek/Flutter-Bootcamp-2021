@@ -134,3 +134,11 @@ Android | IOS
 ------------ | -------------
 ![image](https://user-images.githubusercontent.com/49060283/112730198-3ee3ad80-8f56-11eb-927d-a2df10c29431.png) | ![image](https://user-images.githubusercontent.com/49060283/112730232-6b97c500-8f56-11eb-8f05-1e81f751f032.png)
 
+
+## Challenge
+
+**Add an app icon**
+
+For every app that you create using Flutter, you get a default Flutter logo as your app icon. 
+
+The challenge is to replace the flutter icon with a custom icon.
