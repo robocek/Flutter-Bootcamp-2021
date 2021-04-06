@@ -14,6 +14,11 @@ In this Bootcamp, you will be able to learn Flutter through interactive **Live**
 
 🔺 Become a fully-fledged Flutter developer.  
 
+## What you will build
+
+![7fcab088cd22cff7](https://user-images.githubusercontent.com/49060283/113670536-e0939900-96d2-11eb-9998-587caf707785.gif)
+
+
 ## Tasks
  1. [Introduction and Installation of Flutter](Task-1.md)
 
