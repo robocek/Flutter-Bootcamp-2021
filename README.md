@@ -21,6 +21,8 @@ In this Bootcamp, you will be able to learn Flutter through interactive **Live**
 
 ## Tasks
  1. [Introduction and Installation of Flutter](Task-1.md)
+ 2. [Part 1 of Startup Namer](https://github.com/robocek/Flutter-Bootcamp-2021/blob/main/Task-2.md)
+ 3. [Part 2 of Startup Namer](https://github.com/robocek/Flutter-Bootcamp-2021/blob/main/Task-3.md)
 
 
 ## Resources
