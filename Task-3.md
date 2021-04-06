@@ -33,7 +33,8 @@ The IDE also automatically updates the state class to extend `State<RandomWords>
 
 Both classes now look as follows:
 
-```class RandomWords extends StatefulWidget {
+```
+class RandomWords extends StatefulWidget {
   @override
   _RandomWordsState createState() => _RandomWordsState();
 }
