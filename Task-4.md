@@ -121,6 +121,25 @@ IOS | Android
 > - **setState()** When the widget’s state changes, the state object calls setState(), telling the framework to redraw the widget.
 
 
+## Challenge
+
+You've already seen how a simple package such as the English words package works, and how it gets downloaded and incorporated into our project. You're now ready to go ahead and  **incorporate an audio file playing package** into our project.
+ 
+The Challenge for today is to incorporate **Button click sound effect when tapping the heart icon.
+ 
+**Hint:
+
+1. Download the sound(https://www.zapsplat.com/sound-effect-category/button-clicks/)
+
+2. Store it in the assets folder
+
+3. Find a package from pub.dev (https://pub.dev/packages/audioplayers you can use this package)
+
+4. Add dependency in your pubspec.yaml file
+
+5. Import and use it in your project.
+
+
 
 
 
