@@ -125,9 +125,9 @@ IOS | Android
 
 You've already seen how a simple package such as the English words package works, and how it gets downloaded and incorporated into our project. You're now ready to go ahead and  **incorporate an audio file playing package** into our project.
  
-The Challenge for today is to incorporate **Button click sound effect when tapping the heart icon.
+The Challenge for today is to incorporate **Button click sound effect when tapping the heart icon.**
  
-**Hint:
+**Hint:**
 
 1. Download the sound(https://www.zapsplat.com/sound-effect-category/button-clicks/)
 
