@@ -6,8 +6,7 @@
 
 
 ## What you'll build 
-End users can select and unselect names, saving the best ones. Tapping the list icon in the upper right of the app bar navigates to a new page (called a route) that lists only the favorited names.
-
+End users can select and unselect names, saving the best ones.
 
 The following image shows how the app would look like after completing part 3.
 
