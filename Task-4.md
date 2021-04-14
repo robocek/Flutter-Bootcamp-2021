@@ -132,7 +132,7 @@ The Challenge for today is to incorporate **Button click sound effect when tappi
 
 2. Store it in the assets folder
 
-3. Find a package from pub.dev (https://pub.dev/packages/audioplayers you can use this package)
+3. Find a suitable package from pub.dev (https://pub.dev/packages/audioplayers you can use this package)
 
 4. Add dependency in your pubspec.yaml file
 
