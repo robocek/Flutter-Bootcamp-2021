@@ -218,8 +218,8 @@ As a Challenge, I want you to **Incorporate Custom Fonts** into Your Startup Nam
 
 You can download fancy fonts from  https://fonts.google.com/
 **Hinds:-**
-1. Add a font to a package.
-2. Add the package and font to the app.
+1. Import the font files
+2. Declare the font in the pubspec
 3. Use the font.
 
 You can customize it additionally by adding fontcolors, backgroundcolors , or anything which you think will make your app look good😇.
