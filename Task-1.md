@@ -8,6 +8,7 @@
 [Get Started: Install](https://flutter.dev/docs/get-started/install)
 
 ## Other Resources
+[How is Flutter different for app development](https://www.youtube.com/watch?v=l-YO9CmaSUM)
 
 [Full Installation of Flutter on Windows](https://www.youtube.com/watch?v=fDnqXmLSqtg)
 
